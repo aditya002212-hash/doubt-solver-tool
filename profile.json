@@ -1,0 +1,14 @@
+[
+    {
+        "name": "bill",
+        "currentclass": "12",
+        "targetexam": "jee",
+        "weaksubject": "chemistry"
+    },
+    {
+        "name": "gill",
+        "currentclass": "12",
+        "targetexam": "neet",
+        "weaksubject": "phsics"
+    }
+]
