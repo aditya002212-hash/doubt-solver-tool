@@ -37,7 +37,7 @@ def add_history(file,query,response):
 
 # main function 
 def doubt_solver():
-    genai.configure(api_key='AIzaSyB2cQEOG9KKI_hGG4OkvR1VpKcjkKHJwS4')
+    genai.configure(api_key='Your_api_key')
     model=genai.GenerativeModel('gemini-2.5-flash')
     while True:
         user_input=input('''
